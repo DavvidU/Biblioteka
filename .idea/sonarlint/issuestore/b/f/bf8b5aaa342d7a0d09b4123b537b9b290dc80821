@@ -1,0 +1,12 @@
+
+`
+java:S1874=">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ8ÉªİÎ1
+]	java:S125B"<This block of commented-out lines of code should be removed.(Ä¼‘Çûÿÿÿÿ8ÎªİÎ1
+g
+java:S1874u"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‘•›Ì8àªİÎ1
+„
+java:S3252}"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²8îªİÎ1
+Š
+java:S3252‚"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ8ğªİÎ1
+H
+java:S1068'"+Remove this unused "binding" private field.(¶ÃÊ8ªİÎ1
